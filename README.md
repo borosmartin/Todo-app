@@ -4,7 +4,8 @@ This is my first React application, built with Vite and Tailwind CSS.
 It features a simple todo list with local storage support to persist tasks.
 
 ## Technologies Used
-- React  
+- React
+- TypeScript
 - Vite  
 - Tailwind CSS  
 - Local Storage  
